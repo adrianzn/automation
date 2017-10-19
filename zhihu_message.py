@@ -19,7 +19,7 @@ class Control(object):
         current_time = self.get_current_time()
         print("No.{}  [Send To:] {} ({})".format(self.counter, phone_number, current_time))
 
-    def many_times(self):
+    def many_times_test(self):
         while self.counter > 0:
             self.single_test()
             self.counter -= 1
@@ -50,6 +50,6 @@ if __name__ == '__main__':
     phone_number = "***********"
     zhihu_url = "https://www.zhihu.com/question/24191741"
     controler = Control(times)
-    controler.many_times()
-    
+    controler.many_times_test()
+
     
