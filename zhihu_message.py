@@ -1,6 +1,6 @@
 # Author: AdrianZhang
 # Coding Time: 2017/10/18
-# Script function: 一个极其无聊的脚本，谁用谁知道。
+# Script Function: 一个极其无聊的脚本，谁用谁知道。
 
 import time
 from selenium import webdriver
