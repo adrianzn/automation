@@ -176,3 +176,4 @@ if __name__ == '__main__':
     execute.handle_text()
     execute.handle_image(save_img_path)
     execute.send_email()
+
