@@ -1,7 +1,8 @@
 # Author: AdrianZhang
-# Script function: Android计算器的冒烟测试：(整数，小数、负数)的加法、减法、乘法、除法；
-#                  0的乘法、除法；0~9数字输入、删除功能。
 # Coding Time: 2017/10/23
+# Script Function: 
+#    Android计算器的冒烟测试：(整数，小数、负数)的加法、减法、乘法、除法；
+#    0的乘法、除法；0~9数字输入、删除功能。
 
 import time
 from appium import webdriver
