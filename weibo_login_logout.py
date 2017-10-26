@@ -1,7 +1,8 @@
 # Author: AdrianZhang
-# Script function: 自动登录微博并发布“爬取自网络的上海日出日落”以及从“接口获取的上海天气信息”后退出，
-#                  然后将微博首页发布后的结果截图发送至指定邮箱。
 # Coding Time: 2017/10/15
+# Script function: 
+#    自动登录微博并发布“爬取自网络的上海日出日落”以及从“接口获取的上海天气信息”后退出，
+#    然后将微博首页发布后的结果截图发送至指定邮箱。
 
 import time
 import json
