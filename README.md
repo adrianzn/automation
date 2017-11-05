@@ -1,7 +1,8 @@
-# automation
-
-声明：所有代码基于Python3.x开发。
-
-automation中的所有代码，都是自己平时写的一些简单的自动化脚本；
-
-欢迎大家参阅。
+# automation  
+  
+Disclaimer: all code is developed based on Python3.x  
+  
+Before you run the code, please confirm your environment first.  
+  
+Thanks for all!  
+  
