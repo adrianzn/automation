@@ -1,3 +1,7 @@
+# Author: AdrianZhang
+# Coding Time: 2017/11/19
+# Script Function: 一个获取Android手机设备名称、系统版本号的脚本。
+
 import os
 
 def get_device_name():
