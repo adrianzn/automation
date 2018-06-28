@@ -1,6 +1,6 @@
-#
-#
-#
+# Author: AdrianZhang
+# Coding Time: 2018/06/28
+# Script Function: A script for get user'data from MySQL and Redis database.
 
 import pymysql.cursors
 import redis
